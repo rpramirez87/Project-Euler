@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		D957B92D1DCF9A3E00024AD6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D957B92C1DCF9A3E00024AD6 /* main.swift */; };
+		D95B92581DCFDBF700580B74 /* euler1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95B92571DCFDBF700580B74 /* euler1.swift */; };
+		D983CFAE1DCFFF64007A0885 /* euler2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFAD1DCFFF64007A0885 /* euler2.swift */; };
+		D983CFB01DCFFF7E007A0885 /* euler3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFAF1DCFFF7E007A0885 /* euler3.swift */; };
+		D983CFB21DD003D8007A0885 /* euler4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFB11DD003D8007A0885 /* euler4.swift */; };
+		D983CFB41DD005D7007A0885 /* euler6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFB31DD005D7007A0885 /* euler6.swift */; };
+		D983CFB61DD00730007A0885 /* euler7.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFB51DD00730007A0885 /* euler7.swift */; };
+		D983CFB81DD00749007A0885 /* euler5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFB71DD00749007A0885 /* euler5.swift */; };
+		D983CFBA1DD0076D007A0885 /* euler8.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFB91DD0076D007A0885 /* euler8.swift */; };
+		D983CFBC1DD00776007A0885 /* euler9.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFBB1DD00776007A0885 /* euler9.swift */; };
+		D983CFBE1DD00787007A0885 /* euler10.swift in Sources */ = {isa = PBXBuildFile; fileRef = D983CFBD1DD00787007A0885 /* euler10.swift */; };
+		D9AE19271DD91F74006FAE3C /* euler11.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AE19261DD91F74006FAE3C /* euler11.swift */; };
+		D9AE19291DD921EA006FAE3C /* euler16.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AE19281DD921EA006FAE3C /* euler16.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +37,18 @@
 /* Begin PBXFileReference section */
 		D957B9291DCF9A3E00024AD6 /* Project Euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project Euler"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D957B92C1DCF9A3E00024AD6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D95B92571DCFDBF700580B74 /* euler1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler1.swift; sourceTree = "<group>"; };
+		D983CFAD1DCFFF64007A0885 /* euler2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler2.swift; sourceTree = "<group>"; };
+		D983CFAF1DCFFF7E007A0885 /* euler3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler3.swift; sourceTree = "<group>"; };
+		D983CFB11DD003D8007A0885 /* euler4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler4.swift; sourceTree = "<group>"; };
+		D983CFB31DD005D7007A0885 /* euler6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler6.swift; sourceTree = "<group>"; };
+		D983CFB51DD00730007A0885 /* euler7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler7.swift; sourceTree = "<group>"; };
+		D983CFB71DD00749007A0885 /* euler5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler5.swift; sourceTree = "<group>"; };
+		D983CFB91DD0076D007A0885 /* euler8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler8.swift; sourceTree = "<group>"; };
+		D983CFBB1DD00776007A0885 /* euler9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler9.swift; sourceTree = "<group>"; };
+		D983CFBD1DD00787007A0885 /* euler10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler10.swift; sourceTree = "<group>"; };
+		D9AE19261DD91F74006FAE3C /* euler11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler11.swift; sourceTree = "<group>"; };
+		D9AE19281DD921EA006FAE3C /* euler16.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = euler16.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +82,18 @@
 			isa = PBXGroup;
 			children = (
 				D957B92C1DCF9A3E00024AD6 /* main.swift */,
+				D95B92571DCFDBF700580B74 /* euler1.swift */,
+				D983CFAD1DCFFF64007A0885 /* euler2.swift */,
+				D983CFAF1DCFFF7E007A0885 /* euler3.swift */,
+				D983CFB11DD003D8007A0885 /* euler4.swift */,
+				D983CFB71DD00749007A0885 /* euler5.swift */,
+				D983CFB31DD005D7007A0885 /* euler6.swift */,
+				D983CFB51DD00730007A0885 /* euler7.swift */,
+				D983CFB91DD0076D007A0885 /* euler8.swift */,
+				D983CFBB1DD00776007A0885 /* euler9.swift */,
+				D983CFBD1DD00787007A0885 /* euler10.swift */,
+				D9AE19261DD91F74006FAE3C /* euler11.swift */,
+				D9AE19281DD921EA006FAE3C /* euler16.swift */,
 			);
 			path = "Project Euler";
 			sourceTree = "<group>";
@@ -89,7 +125,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = "Mochi Apps";
 				TargetAttributes = {
 					D957B9281DCF9A3E00024AD6 = {
@@ -122,6 +158,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				D957B92D1DCF9A3E00024AD6 /* main.swift in Sources */,
+				D983CFB81DD00749007A0885 /* euler5.swift in Sources */,
+				D95B92581DCFDBF700580B74 /* euler1.swift in Sources */,
+				D983CFB21DD003D8007A0885 /* euler4.swift in Sources */,
+				D983CFB61DD00730007A0885 /* euler7.swift in Sources */,
+				D983CFBA1DD0076D007A0885 /* euler8.swift in Sources */,
+				D983CFAE1DCFFF64007A0885 /* euler2.swift in Sources */,
+				D983CFBE1DD00787007A0885 /* euler10.swift in Sources */,
+				D983CFBC1DD00776007A0885 /* euler9.swift in Sources */,
+				D983CFB01DCFFF7E007A0885 /* euler3.swift in Sources */,
+				D9AE19291DD921EA006FAE3C /* euler16.swift in Sources */,
+				D983CFB41DD005D7007A0885 /* euler6.swift in Sources */,
+				D9AE19271DD91F74006FAE3C /* euler11.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,6 +194,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -194,6 +243,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -213,6 +263,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
 			name = Release;
 		};
@@ -253,6 +304,7 @@
 				D957B9321DCF9A3E00024AD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
